@@ -31,7 +31,7 @@ let tracks = [
     image:
       "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
     url:
-      "./assets/audio/pop_instrumental.mp3"
+	  "./assets/audio/pop_instrumental.mp3"
   },
   {
     track: 2,
@@ -41,7 +41,7 @@ let tracks = [
     image:
       "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
     url:
-      "./assets/audio/playground.mp3"
+	  "./assets/audio/playground.mp3"
   },
   {
     track: 3,
@@ -52,7 +52,6 @@ let tracks = [
       "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
     url:
       "./assets/audio/less.mp3"
-
   },
   {
     track: 4,
@@ -62,8 +61,7 @@ let tracks = [
     image:
       "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
     url:
-    "./assets/audio/al metal.mp3"
-
+	  "./assets/audio/al metal.mp3"
   },
   {
     track: 5,
@@ -73,8 +71,7 @@ let tracks = [
     image:
       "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
     url:
-    "./assets/audio/enemy.mp3"
-
+	  "./assets/audio/enemy.mp3"
   }
 ];
 
