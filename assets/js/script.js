@@ -41,7 +41,7 @@ let tracks = [
     image:
       "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
     url:
-      "https://drive.google.com/file/d/1ikS0CxS9X1Sr1_hCjR9rleG01n4UYz9W/view?usp=sharing"
+      "./assets/audio/playground.mp3"
   },
   {
     track: 3,
@@ -51,7 +51,7 @@ let tracks = [
     image:
       "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
     url:
-      "https://drive.google.com/file/d/1n3fveWUEwcC68pIydiWV7rSRGrhBv5OA/view?usp=sharing"
+      "./assets/audio/less.mp3"
 
   },
   {
@@ -62,7 +62,7 @@ let tracks = [
     image:
       "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
     url:
-    "https://drive.google.com/file/d/1LKDLiN0uFHe82Upxjd4YwDbr1ErGIOM5/view?usp=sharing"
+    "./assets/audio/al metal.mp3"
 
   },
   {
@@ -73,7 +73,7 @@ let tracks = [
     image:
       "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
     url:
-    "https://soundcloud.com/realberg-akelahd/enemy-orchestral-remix-cover"
+    "./assets/audio/enemy.mp3"
 
   }
 ];
