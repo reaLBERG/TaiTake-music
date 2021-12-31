@@ -31,7 +31,7 @@ let tracks = [
     image:
       "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
     url:
-      "https://drive.google.com/file/d/1kLLIExmX1ydFS8dEazVp5ucsyrQthuai/view?usp=sharing"
+      "./assets/audio/pop_instrumental.mp3"
   },
   {
     track: 2,
