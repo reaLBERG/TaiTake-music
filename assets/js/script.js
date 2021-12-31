@@ -41,7 +41,7 @@ let tracks = [
     image:
       "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
     url:
-      "./assets/audio/untitled1.flac"
+      "https://drive.google.com/file/d/1Ay-07uERNOqK5_vhYBWazc-09pStQ-gs/view?usp=sharing"
   },
   {
     track: 3,
@@ -51,7 +51,7 @@ let tracks = [
     image:
       "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
     url:
-      "./assets/audio/less.mp3"
+      "https://drive.google.com/file/d/1n3fveWUEwcC68pIydiWV7rSRGrhBv5OA/view?usp=sharing"
 
   },
   {
@@ -62,7 +62,7 @@ let tracks = [
     image:
       "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
     url:
-    "./assets/audio/alt metal instrum.wav"
+    "https://drive.google.com/file/d/1LKDLiN0uFHe82Upxjd4YwDbr1ErGIOM5/view?usp=sharing"
 
   },
   {
@@ -73,7 +73,7 @@ let tracks = [
     image:
       "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
     url:
-    "./assets/audio/Imagine Dragons - Enemy.flac"
+    "https://drive.google.com/file/d/1lz-PY4CejmHtiIPQ0KEAoheRjjVoWMDY/view?usp=sharing"
 
   }
 ];
