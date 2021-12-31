@@ -73,7 +73,7 @@ let tracks = [
     image:
       "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
     url:
-    "https://drive.google.com/file/d/1lz-PY4CejmHtiIPQ0KEAoheRjjVoWMDY/view?usp=sharing"
+    "https://soundcloud.com/realberg-akelahd/enemy-orchestral-remix-cover"
 
   }
 ];
