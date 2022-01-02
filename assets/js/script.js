@@ -62,7 +62,7 @@ let tracks = [
     image:
       "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
     url:
-    "./assets/audio/al metal.mp3"
+    "./assets/audio/alt_metal.mp3"
 
   },
   {
