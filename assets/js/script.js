@@ -25,7 +25,7 @@ let currentList;
 let tracks = [
   {
     track: 1,
-    name: "pop instrumental",
+    name: "More",
     artist: "reaLBERG",
     duration: "3:33",
     image:
@@ -56,7 +56,7 @@ let tracks = [
   },
   {
     track: 4,
-    name: "alt metal instrumental",
+    name: "Break it all down",
     artist: "reaLBERG",
     duration: "3:21",
     image:
@@ -67,8 +67,18 @@ let tracks = [
   },
   {
     track: 5,
-    name: "Enemy",
-    artist: "reaLBERG ft. Imagine Dragons",
+    name: "Break it all down",
+    artist: "reaLBERG",
+    duration: "3:22",
+    image:
+      "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
+    url:
+      "./assets/audio/break_it_all_down.mp3"
+  },
+  {
+    track: 6,
+    name: "Enemy by reaLERG",
+    artist: "Imagine Dragons",
     duration: "3:21",
     image:
       "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
