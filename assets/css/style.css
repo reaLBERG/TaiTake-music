@@ -96,6 +96,7 @@ progress{
 	border-radius: 6px;
 	display: block;
 	margin: 0 auto;
+	cursor: pointer;
 }
 .progress-panel{
 	text-align: center;
