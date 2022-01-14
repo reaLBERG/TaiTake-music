@@ -56,7 +56,7 @@ let tracks = [
   },
   {
     track: 4,
-    name: "Break it all down",
+    name: "Break it all down (metal)",
     artist: "reaLBERG",
     duration: "3:21",
     image:
@@ -67,7 +67,7 @@ let tracks = [
   },
   {
     track: 5,
-    name: "Break it all down",
+    name: "Break it all down (Guzheng)",
     artist: "reaLBERG",
     duration: "3:22",
     image:
@@ -77,8 +77,8 @@ let tracks = [
   },
   {
     track: 6,
-    name: "Enemy by reaLERG",
-    artist: "Imagine Dragons",
+    name: "Enemy",
+    artist: "reaLBERG",
     duration: "3:21",
     image:
       "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
