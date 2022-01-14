@@ -218,7 +218,15 @@ function updateProgress() {
   progressBar.setAttribute("value", percent);
 }
 
+function setProgress(e) {
+  const width = this.clientWidth;
+  const clickX = e.offsetX;
+  const duration = music.duration;
 
+  music.currentTime = (clickX / width) * duration;
+}
+
+progressBar.addEventListener("click", setProgress);
 playBtn.addEventListener("click", play, false);
 pauseBtn.addEventListener("click", pause, false);
 preBtn.addEventListener("click", prePlay, false);
