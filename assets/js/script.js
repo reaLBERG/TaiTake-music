@@ -56,7 +56,7 @@ let tracks = [
   },
   {
     track: 4,
-    name: "Break it all down (metal)",
+    name: "Break it all down",
     artist: "reaLBERG",
     duration: "3:21",
     image:
@@ -67,7 +67,7 @@ let tracks = [
   },
   {
     track: 5,
-    name: "Break it all down (Guzheng)",
+    name: "Break it all down",
     artist: "reaLBERG",
     duration: "3:22",
     image:
