@@ -85,6 +85,36 @@ let tracks = [
     url:
     "./assets/audio/enemy.mp3"
 
+  },
+  {
+    track: 7,
+    name: "Hope",
+    artist: "reaLBERG",
+    duration: "2:06",
+    image:
+      "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
+    url:
+      "./assets/audio/hope.mp3"
+  },
+  {
+    track: 8,
+    name: "Stay Tonight",
+    artist: "reaLBERG",
+    duration: "4:16",
+    image:
+      "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
+    url:
+    "./assets/audio/Stay_Tonight.mp3"
+  },	
+  {
+    track: 9,
+    name: "True story",
+    artist: "reaLBERG",
+    duration: "4:13",
+    image:
+      "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
+    url:
+    "./assets/audio/true_story.mp3"
   }
 ];
 
