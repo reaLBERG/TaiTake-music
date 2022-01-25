@@ -77,8 +77,8 @@ let tracks = [
   },
   {
     track: 6,
-    name: "Enemy",
-    artist: "reaLBERG",
+    name: "Enemy by reaLBERG",
+    artist: "Imagine Dragons",
     duration: "3:21",
     image:
       "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
