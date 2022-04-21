@@ -147,7 +147,8 @@ progress::-webkit-progress-bar {
 	vertical-align: middle;
 	display: table-cell;
 	display: inline-block;
-	padding: 15px;
+	padding: 5px;
+	padding-top: 5px;
 }
 .hidden {
 	display: none;
