@@ -45,16 +45,6 @@ let tracks = [
   },
   {
     track: 3,
-    name: "Untitled",
-    artist: "reaLBERG",
-    duration: "3:45",
-    image:
-      "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
-    url:
-      "./assets/audio/playground.mp3"
-  },
-  {
-    track: 4,
     name: "Less",
     artist: "reaLBERG",
     duration: "3:23",
@@ -65,7 +55,7 @@ let tracks = [
 
   },
   {
-    track: 5,
+    track: 4,
     name: "Break it all down",
     artist: "reaLBERG",
     duration: "3:21",
@@ -76,7 +66,7 @@ let tracks = [
 
   },
   {
-    track: 6,
+    track: 5,
     name: "Break it all down",
     artist: "reaLBERG",
     duration: "3:22",
@@ -86,7 +76,7 @@ let tracks = [
       "./assets/audio/break_it_all_down.mp3"
   },
   {
-    track: 7,
+    track: 6,
     name: "Enemy by reaLBERG",
     artist: "Imagine Dragons",
     duration: "3:21",
@@ -97,7 +87,7 @@ let tracks = [
 
   },
   {
-    track: 8,
+    track: 7,
     name: "Hope",
     artist: "reaLBERG",
     duration: "2:06",
@@ -107,7 +97,7 @@ let tracks = [
       "./assets/audio/hope.mp3"
   },
   {
-    track: 9,
+    track: 8,
     name: "Stay Tonight",
     artist: "reaLBERG",
     duration: "4:16",
@@ -117,7 +107,7 @@ let tracks = [
     "./assets/audio/Stay_Tonight.mp3"
   },	
   {
-    track: 10,
+    track: 9,
     name: "True story",
     artist: "reaLBERG",
     duration: "4:13",
