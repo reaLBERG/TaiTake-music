@@ -25,6 +25,16 @@ let currentList;
 let tracks = [
    {
     track: 1,
+    name: "Happiness",
+    artist: "reaLBERG",
+    duration: "3:19",
+    image:
+      "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
+    url:
+      "./assets/audio/untitled.mp3"
+  },
+  {
+    track: 2,
     name: "Alternative pop",
     artist: "reaLBERG",
     duration: "3:08",
@@ -34,7 +44,7 @@ let tracks = [
       "./assets/audio/pop_alt.mp3"
   },
   {
-    track: 2,
+    track: 3,
     name: "The heart is heating",
     artist: "reaLBERG",
     duration: "2:57",
@@ -44,7 +54,7 @@ let tracks = [
       "./assets/audio/the_heart_is_heating.mp3"
   },
   {
-    track: 3,
+    track: 4,
     name: "Mystery",
     artist: "reaLBERG",
     duration: "4:00",
@@ -54,7 +64,7 @@ let tracks = [
       "./assets/audio/cn_mystery.mp3"
   },
   {
-    track: 4,
+    track: 5,
     name: "More",
     artist: "reaLBERG",
     duration: "3:33",
@@ -64,7 +74,7 @@ let tracks = [
       "./assets/audio/pop_instrumental.mp3"
   },
   {
-    track: 5,
+    track: 6,
     name: "Less",
     artist: "reaLBERG",
     duration: "3:23",
@@ -75,7 +85,7 @@ let tracks = [
 
   },
   {
-    track: 6,
+    track: 7,
     name: "Break it all down",
     artist: "reaLBERG",
     duration: "3:21",
@@ -86,7 +96,7 @@ let tracks = [
 
   },
   {
-    track: 7,
+    track: 8,
     name: "Break it all down",
     artist: "reaLBERG",
     duration: "3:22",
@@ -96,7 +106,7 @@ let tracks = [
       "./assets/audio/break_it_all_down.mp3"
   },
   {
-    track: 8,
+    track: 9,
     name: "Enemy by reaLBERG",
     artist: "Imagine Dragons",
     duration: "3:21",
@@ -107,7 +117,7 @@ let tracks = [
 
   },
   {
-    track: 9,
+    track: 10,
     name: "Hope",
     artist: "reaLBERG",
     duration: "2:06",
@@ -117,7 +127,7 @@ let tracks = [
       "./assets/audio/hope.mp3"
   },
   {
-    track: 10,
+    track: 11,
     name: "Stay Tonight",
     artist: "reaLBERG",
     duration: "4:16",
@@ -127,7 +137,7 @@ let tracks = [
     "./assets/audio/Stay_Tonight.mp3"
   },	
   {
-    track: 11,
+    track: 12,
     name: "True story",
     artist: "reaLBERG",
     duration: "4:13",
