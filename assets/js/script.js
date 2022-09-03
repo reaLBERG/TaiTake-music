@@ -23,19 +23,49 @@ let currentTrack = 0;
 let currentList;
 
 let tracks = [
-   {
+    {
     track: 1,
+    name: "Unnamed (piano)",
+    artist: "reaLBERG",
+    duration: "3:04",
+    image:
+      "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
+    url:
+      "./assets/audio/2_02_2022_Vicka.mp3"
+  },
+  {
+    track: 2,
+    name: "Everything for u",
+    artist: "reaLBERG",
+    duration: "3:24",
+    image:
+      "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
+    url:
+      "./assets/audio/everything_goes_on.mp3"
+  },
+  {
+    track: 3,
+    name: "Everything for u (ambient)",
+    artist: "reaLBERG",
+    duration: "5:24",
+    image:
+      "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
+    url:
+      "./assets/audio/evrthg_goes_on_piano.mp3"
+  },
+  {
+    track: 4,
     name: "Happiness",
     artist: "reaLBERG",
     duration: "3:19",
     image:
       "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
     url:
-      "./assets/audio/untitled.mp3"
+      "./assets/audio/happiness.mp3"
   },
   {
-    track: 2,
-    name: "Alternative pop",
+    track: 5,
+    name: "Unnamed",
     artist: "reaLBERG",
     duration: "3:08",
     image:
@@ -44,17 +74,7 @@ let tracks = [
       "./assets/audio/pop_alt.mp3"
   },
   {
-    track: 3,
-    name: "The heart is heating",
-    artist: "reaLBERG",
-    duration: "2:57",
-    image:
-      "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
-    url:
-      "./assets/audio/the_heart_is_heating.mp3"
-  },
-  {
-    track: 4,
+    track: 6,
     name: "Mystery",
     artist: "reaLBERG",
     duration: "4:00",
@@ -64,7 +84,7 @@ let tracks = [
       "./assets/audio/cn_mystery.mp3"
   },
   {
-    track: 5,
+    track: 7,
     name: "More",
     artist: "reaLBERG",
     duration: "3:33",
@@ -74,18 +94,7 @@ let tracks = [
       "./assets/audio/pop_instrumental.mp3"
   },
   {
-    track: 6,
-    name: "Less",
-    artist: "reaLBERG",
-    duration: "3:23",
-    image:
-      "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
-    url:
-      "./assets/audio/less.mp3"
-
-  },
-  {
-    track: 7,
+    track: 8,
     name: "Break it all down",
     artist: "reaLBERG",
     duration: "3:21",
@@ -96,7 +105,7 @@ let tracks = [
 
   },
   {
-    track: 8,
+    track: 9,
     name: "Break it all down",
     artist: "reaLBERG",
     duration: "3:22",
@@ -106,26 +115,15 @@ let tracks = [
       "./assets/audio/break_it_all_down.mp3"
   },
   {
-    track: 9,
-    name: "Enemy by reaLBERG",
-    artist: "Imagine Dragons",
-    duration: "3:21",
-    image:
-      "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
-    url:
-    "./assets/audio/enemy.mp3"
-
-  },
-  {
     track: 10,
-    name: "Hope",
+    name: "True story",
     artist: "reaLBERG",
-    duration: "2:06",
+    duration: "4:13",
     image:
       "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
     url:
-      "./assets/audio/hope.mp3"
-  },
+    "./assets/audio/true_story.mp3"
+  },	
   {
     track: 11,
     name: "Stay Tonight",
@@ -135,16 +133,6 @@ let tracks = [
       "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
     url:
     "./assets/audio/Stay_Tonight.mp3"
-  },	
-  {
-    track: 12,
-    name: "True story",
-    artist: "reaLBERG",
-    duration: "4:13",
-    image:
-      "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
-    url:
-    "./assets/audio/true_story.mp3"
   }
 ];
 
