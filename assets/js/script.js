@@ -123,8 +123,7 @@ let tracks = [
       "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
     url:
     "./assets/audio/true_story.mp3"
-  },
-  {}
+  }
 ];
 
 function init() {
