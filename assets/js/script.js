@@ -45,7 +45,7 @@ let tracks = [
   },
   {
     track: 3,
-    name: "Everything for u (ambient)",
+    name: "Everything for u",
     artist: "reaLBERG",
     duration: "5:24",
     image:
