@@ -323,43 +323,48 @@ main{
 	margin-right: 16px;
 }
 @font-face{
-	font-family:Gilroy-Bold;
-	src:local("https://dj4bodrxy955u.cloudfront.net/fonts/Gilroy/Gilroy-Bold.otf"),url(https://dj4bodrxy955u.cloudfront.net/fonts/Gilroy/Gilroy-Bold.otf) format("opentype");
+	font-family: 'Gilroy Bold';
+	src: url('Gilroy-Bold.eot');
+   src: url('Gilroy-Bold.eot?#iefix') format('embedded-opentype'), url('Gilroy-Bold.woff') format('woff'), url('Gilroy-Bold.ttf') format('truetype');
+	font-weight:400;
+	font-style:normal;
+	font-display:swap;
+}
+@font-face{
+	font-family:'Gilroy SemiBold';
+	src: url('Gilroy-SemiBold.eot');
+   src: url('Gilroy-SemiBold.eot?#iefix') format('embedded-opentype'), url('Gilroy-SemiBold.woff') format('woff'),url('Gilroy-SemiBold.ttf') format('truetype');
 	font-weight:400;
 	font-style:normal;
 	font-display:swap
 }
 @font-face{
-	font-family:Gilroy-SemiBold;
-	src:local("https://dj4bodrxy955u.cloudfront.net/fonts/Gilroy/Gilroy-SemiBold.otf"),url(https://dj4bodrxy955u.cloudfront.net/fonts/Gilroy/Gilroy-SemiBold.otf) format("opentype");
+	font-family:'Gilroy Medium';
+	src: url('Gilroy-Medium.eot');
+   src: url('Gilroy-Medium.eot?#iefix') format('embedded-opentype'), url('Gilroy-Medium.woff') format('woff'), url('Gilroy-Medium.ttf') format('truetype');
 	font-weight:400;
 	font-style:normal;
-	font-display:swap
+	font-display:swap;
 }
 @font-face{
-	font-family:Gilroy-Medium;
-	src:local("https://dj4bodrxy955u.cloudfront.net/fonts/Gilroy/Gilroy-Medium.otf"),url(https://dj4bodrxy955u.cloudfront.net/fonts/Gilroy/Gilroy-Medium.otf) format("opentype");
+	font-family:'Gilroy Regular';
+	src: url('Gilroy-Regular.eot');
+   src: url('Gilroy-Regular.eot?#iefix') format('embedded-opentype'), url('Gilroy-Regular.woff') format('woff'), url('Gilroy-Regular.ttf') format('truetype');
 	font-weight:400;
 	font-style:normal;
-	font-display:swap
+	font-display:swap;
 }
 @font-face{
-	font-family:Gilroy-Regular;
-	src:local("https://dj4bodrxy955u.cloudfront.net/fonts/Gilroy/Gilroy-Regular.otf"),url(https://dj4bodrxy955u.cloudfront.net/fonts/Gilroy/Gilroy-Regular.otf) format("opentype");
+	font-family:'Gilroy UltraLight';
+	src: url('Gilroy-UltraLight.eot');
+   src: url('Gilroy-UltraLight.eot?#iefix') format('embedded-opentype'), url('Gilroy-UltraLight.woff') format('woff'), url('Gilroy-UltraLight.ttf') format('truetype');
 	font-weight:400;
 	font-style:normal;
-	font-display:swap
-}
-@font-face{
-	font-family:Gilroy-UltraLight;
-	src:local("https://dj4bodrxy955u.cloudfront.net/fonts/Gilroy/Gilroy-UltraLight.otf"),url(https://dj4bodrxy955u.cloudfront.net/fonts/Gilroy/Gilroy-UltraLight.otf) format("opentype");
-	font-weight:400;
-	font-style:normal;
-	font-display:swap
+	font-display:swap;
 }
 body{
 	color:#000;
-	font-family:Gilroy-Medium,Helvetica,Arial,sans-serif;
+	font-family:'Gilroy Medium',Helvetica,Arial,sans-serif;
 	font-weight:400;
 	overflow-x: hidden;
 	height: 1000px;
