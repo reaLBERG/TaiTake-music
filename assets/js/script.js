@@ -23,8 +23,18 @@ let currentTrack = 0;
 let currentList;
 
 let tracks = [
-    {
+   {
     track: 1,
+    name: "More v2",
+    artist: "reaLBERG",
+    duration: "3:26",
+    image:
+      "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
+    url:
+      "./assets/audio/untitled1.mp3"
+  }, 
+  {
+    track: 2,
     name: "Unnamed (piano)",
     artist: "reaLBERG",
     duration: "3:04",
@@ -34,7 +44,7 @@ let tracks = [
       "./assets/audio/2_02_2022_Vicka.mp3"
   },
   {
-    track: 2,
+    track: 3,
     name: "Everything for u",
     artist: "reaLBERG",
     duration: "3:24",
@@ -44,7 +54,7 @@ let tracks = [
       "./assets/audio/everything_goes_on.mp3"
   },
   {
-    track: 3,
+    track: 4,
     name: "Everything for u",
     artist: "reaLBERG",
     duration: "5:24",
@@ -54,7 +64,7 @@ let tracks = [
       "./assets/audio/evrthg_goes_on_piano.mp3"
   },
   {
-    track: 4,
+    track: 5,
     name: "Happiness",
     artist: "reaLBERG",
     duration: "3:19",
@@ -64,7 +74,7 @@ let tracks = [
       "./assets/audio/happiness.mp3"
   },
   {
-    track: 5,
+    track: 6,
     name: "Unnamed",
     artist: "reaLBERG",
     duration: "3:08",
@@ -74,7 +84,7 @@ let tracks = [
       "./assets/audio/pop_alt.mp3"
   },
   {
-    track: 6,
+    track: 7,
     name: "Mystery",
     artist: "reaLBERG",
     duration: "4:00",
@@ -84,7 +94,7 @@ let tracks = [
       "./assets/audio/cn_mystery.mp3"
   },
   {
-    track: 7,
+    track: 8,
     name: "More",
     artist: "reaLBERG",
     duration: "3:33",
@@ -94,7 +104,7 @@ let tracks = [
       "./assets/audio/pop_instrumental.mp3"
   },
   {
-    track: 8,
+    track: 9,
     name: "Break it all down",
     artist: "reaLBERG",
     duration: "3:21",
@@ -105,7 +115,7 @@ let tracks = [
 
   },
   {
-    track: 9,
+    track: 10,
     name: "Break it all down",
     artist: "reaLBERG",
     duration: "3:22",
@@ -115,7 +125,7 @@ let tracks = [
       "./assets/audio/break_it_all_down.mp3"
   },
   {
-    track: 10,
+    track: 11,
     name: "True story",
     artist: "reaLBERG",
     duration: "4:13",
