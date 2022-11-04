@@ -137,7 +137,8 @@ progress::-webkit-progress-bar {
 	margin: 0 auto;
 	width: 160px;
 	height: 60px;
-	padding-left: 24px;
+	padding-left: 40px;
+	padding-top: 5px;
 	display: block;
 	position: relative;
 	bottom: 50px;
