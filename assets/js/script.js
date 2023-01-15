@@ -25,8 +25,38 @@ let currentList;
 let tracks = [
    {
     track: 1,
+    name: "Everything for You (2023)",
+    artist: "TaiTake",
+    duration: "2:45",
+    image:
+      "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
+    url:
+      "./assets/audio/everything_for_u_23.mp3"
+   },
+   {
+    track: 2,
+    name: "Flowing Night",
+    artist: "TaiTake",
+    duration: "3:10",
+    image:
+      "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
+    url:
+      "./assets/audio/flowing_night.mp3"
+   }, 
+   {
+    track: 3,
+    name: "time",
+    artist: "TaiTake",
+    duration: "3:48",
+    image:
+      "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
+    url:
+      "./assets/audio/time.mp3"
+  }, 
+  {
+    track: 4,
     name: "Untitled",
-    artist: "reaLBERG",
+    artist: "TaiTake",
     duration: "3:26",
     image:
       "https://i.pinimg.com/736x/5c/27/fb/5c27fb8c0b480d7ce08b15f57cbe53ff.jpg",
@@ -34,7 +64,7 @@ let tracks = [
       "./assets/audio/untitled1.mp3"
   }, 
   {
-    track: 2,
+    track: 5,
     name: "Unnamed (piano)",
     artist: "reaLBERG",
     duration: "3:04",
@@ -44,7 +74,7 @@ let tracks = [
       "./assets/audio/2_02_2022_Vicka.mp3"
   },
   {
-    track: 3,
+    track: 6,
     name: "Everything for u",
     artist: "reaLBERG",
     duration: "3:24",
@@ -54,7 +84,7 @@ let tracks = [
       "./assets/audio/everything_goes_on.mp3"
   },
   {
-    track: 4,
+    track: 7,
     name: "Everything for u",
     artist: "reaLBERG",
     duration: "5:24",
@@ -64,7 +94,7 @@ let tracks = [
       "./assets/audio/evrthg_goes_on_piano.mp3"
   },
   {
-    track: 5,
+    track: 8,
     name: "Happiness",
     artist: "reaLBERG",
     duration: "3:19",
@@ -74,7 +104,7 @@ let tracks = [
       "./assets/audio/happiness.mp3"
   },
   {
-    track: 6,
+    track: 9,
     name: "Unnamed",
     artist: "reaLBERG",
     duration: "3:08",
@@ -84,7 +114,7 @@ let tracks = [
       "./assets/audio/pop_alt.mp3"
   },
   {
-    track: 7,
+    track: 10,
     name: "Mystery",
     artist: "reaLBERG",
     duration: "4:00",
@@ -94,7 +124,7 @@ let tracks = [
       "./assets/audio/cn_mystery.mp3"
   },
   {
-    track: 8,
+    track: 11,
     name: "More",
     artist: "reaLBERG",
     duration: "3:33",
@@ -104,7 +134,7 @@ let tracks = [
       "./assets/audio/pop_instrumental.mp3"
   },
   {
-    track: 9,
+    track: 12,
     name: "Break it all down",
     artist: "reaLBERG",
     duration: "3:21",
@@ -115,7 +145,7 @@ let tracks = [
 
   },
   {
-    track: 10,
+    track: 12,
     name: "Break it all down",
     artist: "reaLBERG",
     duration: "3:22",
@@ -125,7 +155,7 @@ let tracks = [
       "./assets/audio/break_it_all_down.mp3"
   },
   {
-    track: 11,
+    track: 14,
     name: "True story",
     artist: "reaLBERG",
     duration: "4:13",
