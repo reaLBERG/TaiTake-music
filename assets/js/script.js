@@ -303,6 +303,7 @@ function setProgress(e) {
 
   music.currentTime = (clickX / width) * duration;
 }
+document.getElementById("year").innerHTML = new Date().getFullYear();
 
 progressBar.addEventListener("click", setProgress);
 playBtn.addEventListener("click", play, false);
