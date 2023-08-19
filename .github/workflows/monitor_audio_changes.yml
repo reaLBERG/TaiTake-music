@@ -1,0 +1,23 @@
+name: Monitor Audio Changes
+
+on:
+  push:
+    branches:
+      - main 
+
+jobs:
+  analyze_changes:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v2
+
+    - name: List files in audio folder
+      run: |
+        ls -R assets/audio
+
+    - name: Send Discord notification
+      run: node .github/scripts/send_discord_notification.js
+      env:
+        WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
