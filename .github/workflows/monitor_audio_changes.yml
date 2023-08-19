@@ -3,7 +3,7 @@ name: audio-changes
 on:
   push:
     branches:
-      - music-upd 
+      - music_upd 
 jobs:
   analyze_changes:
     runs-on: ubuntu-latest
