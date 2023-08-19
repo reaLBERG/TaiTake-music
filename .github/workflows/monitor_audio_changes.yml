@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main 
-
 jobs:
   analyze_changes:
     runs-on: ubuntu-latest
