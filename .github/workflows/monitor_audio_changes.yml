@@ -1,4 +1,4 @@
-name: Monitor Audio Changes
+name: audio-changes
 
 on:
   push:
