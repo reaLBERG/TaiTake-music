@@ -3,7 +3,7 @@ name: Monitor Audio Changes
 on:
   push:
     branches:
-      - main 
+      - music-upd 
 jobs:
   analyze_changes:
     runs-on: ubuntu-latest
