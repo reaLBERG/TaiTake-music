@@ -3,7 +3,7 @@ const process = require("process");
 
 function sendDiscordNotification(webhookUrl) {
     const message = {
-        content: "New track has been released! Check it out: https://realberg.github.io/",
+        content: "New track has been released! Check it out: https://realberg.github.io/ ",
         username: "TaiTake GitHub Notifier"
     };
 
