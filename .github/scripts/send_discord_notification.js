@@ -26,7 +26,7 @@ function sendDiscordNotification(webhookUrl) {
     });
 }
 
-if (require.main === module) {
+if (require.music_upd === module) {
     const webhookUrl = process.env.WEBHOOK_URL;
     sendDiscordNotification(webhookUrl);
 }
